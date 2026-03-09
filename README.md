@@ -1,33 +1,20 @@
-# Cybersecurity Learning (Python)
+# 🛡️ CyberSecurity Beginner Journey
 
-This repository contains my Python practice while learning
-cybersecurity basics and core programming concepts.
+Welcome to my Beginner Cybersecurity repository! This folder contains all the foundational scripts, notes, and exercises I completed during the first phase of my cybersecurity training. 
 
-The focus is on learning by doing, not theory.
+## 🎯 Phase Objective
+The goal of this phase was to build a strong foundation in networking, Linux command-line operations, and basic offensive security concepts before moving on to intermediate traffic interception.
 
----
+## 🛠️ Skills & Tools Mastered
+- **Environment Setup:** Configured and managed Kali Linux Virtual Machines.
+- **Platform Experience:** Completed "Offensive Security Intro" and foundational labs on TryHackMe.
+- **Reconnaissance:** Learned directory busting and enumeration techniques to map out web applications.
+- **Networking Basics:** Deep understanding of IP addresses, Ports, Sockets, and Shells.
+- **Scripting:** Wrote basic Python scripts for network automation and port scanning.
 
-## What this repository contains
-
-- Python basics (variables, loops, input/output)
-- File handling practice
-- Small scripts related to cybersecurity concepts
-- Learning experiments and practice code
-
----
-
-## Folder Structure (will improve over time)
-
-- basics/        → Python fundamentals
-- file_handling/ → Reading and writing files
-- tools/         → Small scripts (scanner, brute force, etc.)
-- reports/       → Notes or output files
-
-(Note: Structure may change as I learn more.)
+## 📁 Repository Status
+**Status: COMPLETED ✅**
+*Note: I have now transitioned to the `CyberSecurity-Intermediate` repository to focus on MITM attacks, packet modification (Scapy/NFQueue), and advanced networking.*
 
 ---
-
-## How to run the code
-
-1. Install Python (3.x)
-2. Clone the repository
+*Documented with ❤️ by sudosammi*
